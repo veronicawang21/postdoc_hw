@@ -1,2 +1,2 @@
-# postdoc_hw
-Covid and wildfire coding assignment
+# Post-doc assignment: Covid and wildfire
+
