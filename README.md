@@ -7,8 +7,7 @@
 
 ## Data
 
-The given Zhou et al. dataset was from: https://github.com/xiaodan-zhou/covid_wildfire
-The 'moddat_Feb2021.csv' file was uploaded into this repository for easy access.
+The given Zhou et al. dataset was from: https://github.com/xiaodan-zhou/covid_wildfire. The 'moddat_Feb2021.csv' file was uploaded into this repository for easy access.
 
 ## Code
 
